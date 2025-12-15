@@ -1,0 +1,10 @@
+img {
+    width: 300px;
+}
+body {
+    text-align: center;
+    font-family: "Montserrat", sans-serif;
+    background-color: mintcream;
+    color: rgb(2, 28, 70);
+    background: linear-gradient(90deg,rgba(184, 226, 245, 1) 0%, rgba(150, 250, 172, 1) 100%);
+}
