@@ -1,2 +1,2 @@
 # personal-website
-for hack club
+A small website based on Hack Club's Personal Website tutorial
